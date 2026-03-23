@@ -1,0 +1,6 @@
+# Model weights (too large for GitHub)
+*.pt
+*.pkl
+*.parquet
+.cache/
+uv.lock
