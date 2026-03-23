@@ -4,3 +4,5 @@
 *.parquet
 .cache/
 uv.lock
+__pycache__/
+*.pyc
